@@ -76,4 +76,18 @@ RADAR:
 ## WATonomous
 section to note what's being used
 - they did some benchmarking and [Depth-Anything](https://github.com/LiheYoung/Depth-Anything) was the fastest one
-- 
+
+
+## Toyota Research
+based on this [article](https://medium.com/toyotaresearch/monocular-depth-in-the-real-world-99c2b287df34)  that summarizes _Self-Supervised Camera Self-Calibration from Video_ (ICRA, 2022)
+
+components to use geometry as inductive bias
+- depth
+- pose (ego motion)
+- camera model
+	- "assumed", simplified to pinhole camera model which is not good for approximating other types of cameras: fisheye, radial distortion, catadioptric
+
+introduces *Unified Camera Model* (UCM)
+- 5 params (1 more than pinhole) - better approx
+
+- learned camera parameters
