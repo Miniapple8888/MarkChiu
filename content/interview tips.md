@@ -1,5 +1,5 @@
 ---
-title: Interview Tips
+title: interview Tips
 ---
 some compiled notes from exp.
 

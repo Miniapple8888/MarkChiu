@@ -14,7 +14,8 @@ for context, serena's one of the youngest YC batch
 7. accelerators care more about founder's bg
 	1. initial idea will change a lot
 8. high risk, high reward
-9. build your own thing -> like making a git pull request to the world! ⭐️
+9. be impatient with your dreams
+10. build your own thing -> like making a git pull request to the world! ⭐️
 
 ## ryan gariepy (04/06/2024)
 clearpath robotics cofounder

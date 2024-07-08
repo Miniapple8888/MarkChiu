@@ -76,6 +76,7 @@ RADAR:
 ## WATonomous
 section to note what's being used
 - they did some benchmarking and [Depth-Anything](https://github.com/LiheYoung/Depth-Anything) was the fastest one
+- [ros2 implementation](https://github.com/scepter914/DepthAnything-ROS) 
 
 
 ## Toyota Research
